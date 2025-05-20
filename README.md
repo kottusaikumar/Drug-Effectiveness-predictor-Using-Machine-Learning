@@ -95,7 +95,11 @@ Models are evaluated using:
 
 ## ▶️ How to Run the Project
 
-### 1. Clone the repository
+### 1. Clone the repository  
+
+
+## 📬 Contact
+For questions, contact [kottusaikumar2003@gmail.com](mailto:kottusaikumar2003@gmail.com).
 
 ```bash
 git clone https://github.com/kottusaikumar/Drug-Effectiveness-predictor-Using-Machine-Learning.git
