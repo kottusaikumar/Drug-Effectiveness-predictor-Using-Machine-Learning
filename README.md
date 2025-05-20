@@ -101,7 +101,5 @@ Models are evaluated using:
 git clone https://github.com/kottusaikumar/Drug-Effectiveness-predictor-Using-Machine-Learning.git
 cd Drug-Effectiveness-predictor-Using-Machine-Learning   
 
-
-
 ## 📬 Contact
 For questions, contact [kottusaikumar2003@gmail.com](mailto:kottusaikumar2003@gmail.com).
